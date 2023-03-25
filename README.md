@@ -1,12 +1,14 @@
 # Hi there, I'm Al Kibriar Hossain 👋
 
-I'm a passionate programmer and Java enthusiast love to Code -> Compile, and currently learning Spring and Spring Boot. I'm excited to start building real-world projects and applying my knowledge to solve problems.
+I'm a passionate programmer and Java enthusiast who is currently learning Spring and Spring Boot. I'm excited to start building real-world projects and applying my knowledge to solve problems.
 
 ## Skills
 
 - Java
 - Git
 - HTML/CSS
+- DSA
+- Problem Solving
 
 ## Learning
 
