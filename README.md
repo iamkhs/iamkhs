@@ -1,18 +1,19 @@
-### Hi there 👋
+Hi there, I'm Al Kibriar Hossain 👋
+I'm a passionate programmer and Java enthusiast who is currently learning Spring and Spring Boot. I'm excited to start building real-world projects and applying my knowledge to solve problems.
 
-<!--
-**iamkhs/iamkhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Java
+Git
+HTML/CSS
+JavaScript
+Learning
+Spring Framework
+Spring Boot
+Goals
+My goal is to become a proficient Java developer and contribute to open-source projects. I'm also interested in exploring other areas of software development, such as machine learning and data science.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+Email: yourname@email.com
+LinkedIn: linkedin
 
 ![](https://leetcard.jacoblin.cool/iamkhs?ext=heatmap)
