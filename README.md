@@ -22,7 +22,7 @@ My goal is to become a proficient Java Backend Developer and contribute to open-
 
 ## Contact
 
-- Email: shantohossain.p@email.com
+- Email: shantohossain.p@gmail.com
 - LinkedIn: [linkedin](https://www.linkedin.com/in/iamkhs/)
 
 
