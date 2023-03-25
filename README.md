@@ -15,7 +15,7 @@ I'm a passionate programmer and Java enthusiast who is currently learning Spring
 
 ## Goals
 
-My goal is to become a proficient Java backend developer and contribute to open-source projects. I'm also interested in exploring other areas of software development
+My goal is to become a proficient Java backend developer and contribute to open-source projects. I'm also interested in exploring other areas of software development and Computer Science
 
 ## Contact
 
