@@ -5,20 +5,21 @@ I'm a passionate programmer and Java enthusiast who is currently learning Spring
 
 ## Skills
 
-- Java
-- Git
-- HTML/CSS
-- DSA
-- Problem Solving
+- Java ☕️
+- Git 🐙
+- HTML/CSS 🌐
+- DSA 📚
+- Problem Solving 🧠
 
 ## Learning
 
-- Spring Framework
-- Spring Boot
+- Spring Framework 🍃
+- Spring Boot 🚀🌱
 
 ## Goals
 
-My goal is to become a proficient Java Backend Developer and contribute to open-source projects. I'm also interested in exploring other areas of software development and Computer Science
+- Apply my knowledge to solve problems 💡
+- Become a skilled Java developer 🚀
 
 ## Contact
 
