@@ -1,6 +1,4 @@
 # Hi, I'm Al Kibriar Hossain 👋
-![Profile views](https://gpvc.arturio.dev/hello)  
-
 I'm a passionate programmer and Java enthusiast who is currently learning Spring and Spring Boot. I'm excited to start building real-world projects and applying my knowledge to solve problems.
 
 ## Skills
