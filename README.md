@@ -8,7 +8,7 @@ I mostly work with **Java, Spring Boot, PostgreSQL, Spring Security, Micro-Servi
 
 Currently building and exploring things around **FinTech systems, SaaS products, developer tools, and applied AI**.
 
-I come from a non-traditional academic background, but I have built my path through curiosity, practical problem-solving, and consistent hands-on engineering. I enjoy understanding how real systems work behind the scenes — from backend architecture and databases to DevOps, observability, automation, and AI-powered tools.
+I come from a non-tech academic background, but I have built my path through curiosity, practical problem-solving, and consistent hands-on engineering. I enjoy understanding how real systems work behind the scenes — from backend architecture and databases to DevOps, observability, automation, and AI-powered tools.
 
 ---
 
